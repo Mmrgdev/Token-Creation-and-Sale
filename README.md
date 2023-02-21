@@ -10,7 +10,9 @@ The overall process can be seen below:
 ![image](https://user-images.githubusercontent.com/126001574/220418628-f20723b3-2845-4af9-9864-60efd9a55d1c.png)
 
 The main components of this process are: 
+
 •	A smart contract implementing ERC20 token creation.
+
 •	A smart contract for selling the ERC-20 tokens. 
 
 
